@@ -28,6 +28,9 @@ h1 {
 h2 {
   color: green;
 }
+h3 {
+  color: green;
+}
 p {
   color: green;
 }
@@ -36,4 +39,11 @@ ul {
 }
 li {
   color: green;
+}
+
+img.test {
+    width: 25%;
+    height: auto;
+    padding: 0 15px;
+    float:right;
 }
