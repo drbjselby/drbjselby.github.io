@@ -18,3 +18,22 @@
   background-color: #4CAF50; /* Add a green color to the "active/current" link */
   color: white;
 }
+
+body {
+  background-color: black;
+}
+h1 {
+  color: green;
+}
+h2 {
+  color: green;
+}
+p {
+  color: green;
+}
+ul {
+  color: green;
+}
+li {
+  color: green;
+}
