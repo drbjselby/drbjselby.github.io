@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="design.css">
+  <title>B. Selby, Ph.D.: Teaching </title>
+</head>
+
+<body>
+  <h1>Bekah J. Selby, Ph.D.</h1>
+  <p> Economist at Emporia State University (2017-present)</p>
+  <p> Ph.D in Economics, University of Oregon, 2017 </p>
+<hr>
+<h1> Teaching: EC 731 - Seminar in the Economics of Crime </h1>
+<hr>
+
+<div class="vertical-menu">
+  <a href="https://drbjselby.github.io/drbjselby.github.io/index.html" >Home</a>
+  <a href="https://drbjselby.github.io/drbjselby.github.io/teaching.html" class="active"> Teaching </a>
+  <a href="https://drbjselby.github.io/drbjselby.github.io/research.html"> Research </a>
+  <a href="https://drbjselby.github.io/drbjselby.github.io/programming.html"> Programming </a>
+</div>
+
+<h2>Lessons</h2>
+<ul>
+<li> Lesson 1: Review of Data, Measures of Central Tendency, and Distributions </li>
+</ul>
+
+
+
+</body>
+
+</html>
